@@ -63,7 +63,8 @@ o	Have high performance.<br><br>
 
 **Architecture Description** <br>
 The design of a DBMS depends on its architecture. It can be centralized or decentralized or hierarchical. The architecture of a DBMS can be seen as either single tier or multi-tier.<br><br>
-![architecture.png](diagram/ER_diagram.png)
+![System Architecture](images/architecture.png)
+
  
 Fig 1: System Architecture
 
