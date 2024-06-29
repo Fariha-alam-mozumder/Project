@@ -75,14 +75,14 @@ The design of a DBMS depends on its architecture. It can be centralized or decen
 
                                     Fig 2: ER Diagram
 
-An entity–relationship model describes interrelated things of interest in a specific domain of knowledge (Refer Fig 1). It is composed of entity types and specifies relationships that can exist between instances of those entity types.
+An entity–relationship model describes interrelated things of interest in a specific domain of knowledge . It is composed of entity types and specifies relationships that can exist between instances of those entity types.
  
 **Relational Schema Diagram**
 
 ![relational model](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/39c8ada9-82ee-4355-bc7b-268b54dbce09)
 
                                       Fig 3: Relational Schema <br><br>
-Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain (Refer Fig 2).
+Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain.
 
 # Chapter 3 - IMPLEMENTATION <br>
 **Description on Implementation**<br>
