@@ -81,7 +81,7 @@ An entity–relationship model describes interrelated things of interest in a sp
 
 ![relational model](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/39c8ada9-82ee-4355-bc7b-268b54dbce09)
 
-                                      Fig 3: Relational Schema <br><br>
+                                      Fig 3: Relational Schema 
 Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain.
 
 # Chapter 3 - IMPLEMENTATION <br>
