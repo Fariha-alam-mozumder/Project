@@ -13,7 +13,7 @@ much more.
 
 
 **Description on the topic:** <br>
-The targeted project is a comprehensive web-based platform designed to facilitate the connection between elderly individuals seeking assistance. Here, the
+The targeted project is a comprehensive web-based platform designed to facilitate the connection between elderly individuals seeking assistance. Here, the
 service providers are offering various services.The system is aimed to focus
 on user friendly interaction and efficient management of profiles, booking
 and transaction of points
@@ -25,7 +25,7 @@ in their advanced age too. Some of them lose their families and in some
 cases, their families lose them. But in both cases, they become so lonely that
 sometimes, the loneliness becomes more painful then arthritis.
 The most precious thing can be given to them is our time, making them
-feel like home. With this motive , we are here with “SilverConnect”, a nonprofit volunteered organization to listen to our senior citizens. We are here
+feel like home. With this motive , we are here with “SilverConnect”, a nonprofit volunteered organization to listen to our senior citizens. We are here
 to provide them little things to bring smile to them.
 
 
@@ -70,7 +70,7 @@ Fig 1: System Architecture
 
 **ER Diagram**
 
-![ER.png](diagram/ER_diagram.png)
+
  ![ER](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/2e8f88a0-4ef2-49ae-b6c7-080792db3ba7)
 
 Fig 2: ER Diagram
@@ -79,7 +79,6 @@ An entity–relationship model describes interrelated things of interest in a sp
  
 **Relational Schema Diagram**
 
-![relational model.png](diagram/RelationalSchema.png)
 ![relational model](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/39c8ada9-82ee-4355-bc7b-268b54dbce09)
 
  Fig 3: Relational Schema <br><br>
