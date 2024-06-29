@@ -63,15 +63,16 @@ o	Have high performance.<br><br>
 
 **Architecture Description** <br>
 The design of a DBMS depends on its architecture. It can be centralized or decentralized or hierarchical. The architecture of a DBMS can be seen as either single tier or multi-tier.<br><br>
-![System Architecture](images/architecture.png)
 
- 
+ ![architecture](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/e4de5a37-5717-45fb-beaf-7baceb013c05)
+
 Fig 1: System Architecture
 
 **ER Diagram**
 
 ![ER.png](diagram/ER_diagram.png)
- 
+ ![ER](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/2e8f88a0-4ef2-49ae-b6c7-080792db3ba7)
+
 Fig 2: ER Diagram
 
 An entity–relationship model describes interrelated things of interest in a specific domain of knowledge (Refer Fig 1). It is composed of entity types and specifies relationships that can exist between instances of those entity types.
@@ -79,6 +80,7 @@ An entity–relationship model describes interrelated things of interest in a sp
 **Relational Schema Diagram**
 
 ![relational model.png](diagram/RelationalSchema.png)
+![relational model](https://github.com/Fariha-alam-mozumder/Project/assets/156440883/39c8ada9-82ee-4355-bc7b-268b54dbce09)
 
  Fig 3: Relational Schema <br><br>
 Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain (Refer Fig 2).
